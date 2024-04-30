@@ -29,6 +29,8 @@ nvm install v20.11.0
 cd ~
 git clone https://github.com/SateaLabs/cellalife-bot.git
 npm install
+cd cellalife-bot
+open .
 ```
 
 ## 配置钱包
