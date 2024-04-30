@@ -2,7 +2,7 @@
 
 ## 环境安装
 
-1. Linux安装git(mac 默认有)
+1. Linux安装git(mac 默认有，无需安装)
 
 ```
 apt-get update
