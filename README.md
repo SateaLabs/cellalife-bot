@@ -20,6 +20,7 @@ nvm install v20.11.0
 ## 初始脚本依赖
 
 ``` 
+cd ~
 git clone https://github.com/SateaLabs/cellalife-bot.git
 npm install
 ```
