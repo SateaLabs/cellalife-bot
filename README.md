@@ -2,6 +2,14 @@
 
 ## 环境安装
 
+1. Linux安装git(mac 默认有)
+
+```
+apt-get update
+apt-get -y install git
+```
+
+2. 安装node环境
 ```
 git clone https://github.com/nvm-sh/nvm.git
 cd nvm
