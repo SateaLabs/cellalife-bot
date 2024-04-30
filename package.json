@@ -1,0 +1,19 @@
+{
+  "name": "auto-mint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mint": "node mint.js",
+    "buyfood": "node buyfood.js",
+    "claim": "node claim.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "csv-parser": "^3.0.0",
+    "ethers": "^6.11.1"
+  }
+}
