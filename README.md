@@ -1,8 +1,18 @@
 # cellalife-bot
 
-## 初始化安装
+## 环境安装
+
+```
+git clone https://github.com/nvm-sh/nvm.git
+cd nvm
+sh ./install.sh
+nvm install v20.11.0
+```
+
+## 初始脚本依赖
 
 ``` 
+git clone https://github.com/SateaLabs/cellalife-bot.git
 npm install
 ```
 
