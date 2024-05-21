@@ -69,3 +69,7 @@ node buyfood.js
 ```
 node claim.js
 ```
+3. 收取BNB返现
+```
+node claim.js
+```
